@@ -5,7 +5,7 @@
 </div>
  
 
-<p align="center"> 🌺 I'm a full-stack developer from Martinique 🌴 <p>
+<p align="center"> <strong> 🌺 I'm a full-stack developer from Martinique 🌴 </strong><p>
 
 👩🏾‍💻 I started coding at Le Wagon
 
