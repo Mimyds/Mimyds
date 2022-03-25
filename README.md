@@ -5,13 +5,13 @@
 </div>
  
 
-<p align="center"> <strong> 🌺 I'm a full-stack developer from Martinique 🌴 </strong><p>
+<p align="center"> <strong> I'm a full-stack developer from Martinique 🌺</strong><p>
 
 👩🏾‍💻 I started coding at Le Wagon
 
 🌱 I’m currently learning Javascript ES6, React.js
 
-🌱 I’m also learning UX Design at the UX Design Institute
+   I’m also learning UX Design at the UX Design Institute
 
 ## 📫 How to reach me : 
 <div style="display: inline_block">
