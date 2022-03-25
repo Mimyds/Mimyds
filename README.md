@@ -9,7 +9,7 @@
 
 👩🏾‍💻 I started coding at Le Wagon
 
-🌱 I’m currently learning Javascript ES6, React.js
+   I’m currently learning Javascript ES6, React.js
 
    I’m also learning UX Design at the UX Design Institute
 
