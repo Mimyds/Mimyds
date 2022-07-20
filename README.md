@@ -9,9 +9,12 @@
 
 👩🏾‍💻 I started coding at Le Wagon
 
-   I’m currently learning Javascript ES6, React.js
-
-   I’m also learning UX Design at the UX Design Institute
+   I’m currently working on : 
+   <ul>
+    <li> My portfolio </li>
+    <li> A website for an outsourced accounting services </li>
+    <li> A web app using Vue.js, Rails API and Axios </li>
+  </ul>
 
 ## 📫 How to reach me : 
 <div style="display: inline_block">
