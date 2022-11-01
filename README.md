@@ -50,6 +50,3 @@
   <img align="center" alt="logo-illustrator" height="30" width="30" src="https://user-images.githubusercontent.com/85175068/158234785-c47f1523-db34-435a-8655-1c4efe6d78bb.svg">
   <img align="center" alt="logo-xd" height="30" width="40" src="https://user-images.githubusercontent.com/85175068/158234476-72f5650a-2a3d-4ac5-b698-bac46f566c0f.svg">
   </div><br>
-
-## ✨ Fun facts
-I like crochet 🧶, food 🍕 and fishing 🎣
